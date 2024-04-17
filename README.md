@@ -8,7 +8,8 @@ Technologies:
 - Microcontroller: STM32
 - Languages: C/C++
 - Additional: Electrical components, schematics design
-- Features:
+
+Features:
 
 - Customizable medication reminders.
 - Accessible alerts for the visually impaired and hard of hearing.
